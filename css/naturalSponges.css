@@ -8,4 +8,13 @@ body {
     background-image: url(../images/sponges-bk.jpg);
     background-size: cover;
     background-repeat: no-repeat; 
+    color:maroon;
+}
+
+.straplines{
+    max-width: 35em;
+}
+
+.maroon {
+    background-color: maroon;
 }
